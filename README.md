@@ -48,3 +48,4 @@
 
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/ta06dphx5uyvp5su/branch/main?svg=true)](https://ci.appveyor.com/project/TanyaVoz/toolkit/branch/main)
