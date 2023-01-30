@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+a.new {
+  font-size: 1rem;
+  margin-left: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-size: inherit;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
